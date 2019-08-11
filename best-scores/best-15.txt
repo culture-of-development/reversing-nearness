@@ -1,0 +1,16 @@
+10004296
+(AA, FG, MG, EI, EO, EL, FK, FJ, FE, GH, FL, MM, NM, EM, EN),
+(HF, GG, KN, LN, LM, FO, FA, FD, GE, GF, GL, HL, GM, FM, FN),
+(IO, KF, JO, LO, MN, GO, GA, GC, GD, HE, JE, HM, HN, GN, HO),
+(IF, IG, LG, KO, MO, NO, NA, HC, HD, ID, MF, OE, NN, IN, IE),
+(JF, JG, KG, NH, OO, OA, AB, OB, OC, OD, NF, OF, ON, AN, AF),
+(AG, IH, AH, OH, OI, AO, BB, BC, AC, NG, OG, AE, AM, BE, BF),
+(CG, BH, JH, BI, AI, BJ, BK, AJ, HI, HG, AK, AL, BM, BN, BG),
+(CA, CH, II, CI, DI, CJ, CK, FI, GI, HJ, IJ, IL, BL, BO, CO),
+(IA, HH, JI, JJ, DJ, DA, GB, HB, GJ, HK, IK, JK, IM, CN, DO),
+(IB, JB, JA, KJ, HA, EA, FB, FC, IC, GK, KK, JL, JM, JN, CB),
+(JC, KB, KA, KI, LA, DB, EB, EC, LC, JD, KD, KL, KM, BA, DD),
+(KE, KC, KH, LJ, LB, MB, DC, MC, LD, LE, LK, LL, BD, CD, EE),
+(DF, LF, LH, LI, MA, NB, CC, NC, ND, MD, ME, NE, AD, CE, DE),
+(DG, DH, MH, MI, NI, OJ, DK, ED, NJ, NK, OK, OL, CL, CM, CF),
+(EF, EG, EH, MJ, MK, DL, EK, EJ, FH, FF, ML, NL, OM, DM, DN)

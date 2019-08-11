@@ -1,0 +1,13 @@
+1716676
+(AA, FA, FL, GL, LL, AL, AJ, EC, FB, GB, LB, LA),
+(AC, BC, GC, GD, LD, KJ, BJ, ED, FC, KC, LC, AB),
+(BI, BD, FD, HD, KD, AD, CD, CC, DC, HC, JC, AH),
+(CH, CG, DF, IE, JE, JF, DE, DD, JD, IF, JH, JG),
+(DH, DG, HF, HJ, IJ, JJ, DJ, DI, GI, IG, JI, HI),
+(CI, DL, HL, HK, IK, JK, CJ, DK, EK, IH, II, BH),
+(CA, CL, HA, IC, IL, BK, CK, DA, EA, IB, IA, BL),
+(CB, CF, BE, ID, JL, KL, CE, DB, EB, JB, JA, BA),
+(BG, BF, FE, HE, KE, LE, AE, EE, EF, HB, KB, BB),
+(AG, FG, GF, GE, KF, LF, AF, EG, KG, HG, KH, LG),
+(GG, EL, FF, GK, KK, AK, KI, EH, FH, GH, HH, LH),
+(AI, FJ, FK, GJ, LK, LJ, EJ, EI, FI, GA, KA, LI)

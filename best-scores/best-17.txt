@@ -1,0 +1,18 @@
+27805312
+(AA, MK, ML, MD, LD, KE, PD, HE, QF, QG, PG, OG, NG, OE, PC, OC, NC),
+(OJ, NK, LL, KC, LC, JD, ID, GE, IF, HF, HG, GG, OH, HC, GD, FD, FC),
+(FI, GL, FL, KM, JC, IC, IE, HD, GF, GM, HK, GI, HN, HB, GB, GC, FH),
+(GK, FK, IL, JL, JM, IB, QC, IM, HM, HI, IJ, HL, HQ, GQ, HA, FA, FB),
+(EK, GJ, IK, JK, JP, IA, AC, AM, QL, HJ, II, IO, HP, IQ, FQ, GA, FJ),
+(BJ, AK, KK, AL, BL, BQ, CC, AO, QO, QN, PJ, QP, IP, PQ, PA, DQ, AJ),
+(CJ, BK, PK, BA, CA, AP, AQ, BP, AH, QK, QJ, QI, PP, QQ, QA, DA, CQ),
+(CI, BI, JJ, CB, BB, AB, QB, BF, BG, AI, PH, PI, OI, OQ, OB, PB, BH),
+(MJ, MI, KJ, LB, LA, KB, BC, AF, AG, QH, NH, LG, NQ, NA, OA, NB, NI),
+(CH, LH, LJ, LF, KA, KD, BD, KF, JG, JI, KH, JH, JQ, MG, MB, MA, MH),
+(DI, LI, KI, LE, JA, JB, JE, JF, IG, GH, IH, HH, KG, LQ, EB, DB, CG),
+(DH, LK, KL, KO, KP, KQ, JO, CF, FF, FG, JN, HO, LP, GP, EQ, EH, EI),
+(EJ, DK, LM, LN, LO, DP, CP, DF, DN, FM, GN, IN, MP, FP, EA, FE, DG),
+(DJ, DL, EL, DM, KN, CO, DO, DE, EM, EN, FN, GO, FO, MQ, EP, EG, EF),
+(DC, CK, CL, MM, CN, BN, CE, BO, CM, AN, NN, MO, OO, NO, EO, DD, EE),
+(NJ, NL, NM, MN, ME, AD, CD, BE, BM, PM, PN, ON, PO, NP, NE, ED, EC),
+(OK, MF, OL, MC, ND, QD, PE, AE, QE, QM, PL, OM, OP, NF, PF, OD, OF)

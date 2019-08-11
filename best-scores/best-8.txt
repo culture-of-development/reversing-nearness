@@ -1,0 +1,9 @@
+57152
+(AA, DA, EA, HA, AH, DH, EH, HH),
+(AB, DB, EB, HB, AC, DC, EC, HC),
+(AE, DE, EE, HE, AD, DD, ED, HD),
+(BF, CF, FF, GF, BG, CG, FG, GG),
+(BA, CA, FA, GA, BH, CH, FH, GH),
+(BB, CB, FB, GB, BC, CC, FC, GC),
+(BE, CE, FE, GE, BD, CD, FD, GD),
+(AF, DF, EF, HF, AG, DG, EG, HG)

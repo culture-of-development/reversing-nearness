@@ -1,0 +1,10 @@
+147547
+(AA, BD, BH, BI, AC, AD, AH, IH, DI),
+(HD, HE, BE, GI, AI, ID, AE, II, HI),
+(GA, GE, GF, FI, FA, FD, IE, EI, HA),
+(DB, CE, FF, CI, EA, FE, EE, DE, DA),
+(CB, CF, BF, BA, BB, EB, EF, DF, CA),
+(HB, HF, BG, AG, AB, IB, AF, IF, IA),
+(HC, GB, GG, GH, FB, IC, IG, HG, HH),
+(GC, GD, FG, FH, FC, EC, EG, DG, DC),
+(CC, CD, CG, CH, BC, ED, DD, EH, DH)

@@ -1,0 +1,14 @@
+3161526
+(AA, JC, KK, ML, AL, DL, CM, CA, BA, JM, BL, CK, CB),
+(HC, IC, JK, AK, GL, EL, GM, HM, IA, IM, IL, IK, BK),
+(HD, JD, HK, GK, FK, FE, GE, HF, IE, HL, IJ, HJ, HI),
+(HE, AE, ME, GJ, GI, GG, GF, BF, ID, IF, IH, HH, HG),
+(GD, AD, MD, MI, MG, GH, AF, BE, AG, AH, AI, BI, BD),
+(FD, GC, AC, MJ, MH, MF, BG, BC, AB, BH, AJ, BJ, CC),
+(FC, MC, LC, MK, FJ, FM, MA, BB, MB, MM, AM, CJ, GB),
+(EB, FB, LB, LK, FL, FA, GA, HA, LA, KM, JL, DJ, DA),
+(EC, JB, KB, LJ, EK, FH, EA, HB, IB, JA, JJ, EJ, EI),
+(ED, KC, KJ, KI, FI, EH, FG, FF, JF, IG, JI, II, DI),
+(EE, KD, KH, LI, LH, EG, EF, LF, KF, JG, JH, CI, DH),
+(DE, LD, KE, LG, LM, DG, DF, CF, JE, KG, CG, CH, DC),
+(CD, DD, LE, KL, LL, EM, DM, CE, KA, BM, CL, DK, DB)

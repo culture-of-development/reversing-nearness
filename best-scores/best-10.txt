@@ -1,0 +1,11 @@
+374006
+(AA, FB, BB, AJ, FJ, GD, BD, BC, AB, GC),
+(FC, FF, AF, AE, JD, FD, ED, AD, AC, JC),
+(FG, EG, EF, JF, JE, FE, EE, AH, JG, IG),
+(FH, DG, AG, JJ, JI, EI, EH, DH, JH, IH),
+(EB, EA, DA, JA, IJ, EJ, DJ, DI, II, JB),
+(EC, DB, CA, IA, HA, DD, DC, CC, IC, IB),
+(HB, DF, BE, IF, IE, HD, DE, CD, ID, HC),
+(GF, CF, BF, HF, HE, GE, CE, CG, HH, HG),
+(GG, BG, BJ, AI, HJ, GI, CI, CH, BH, GH),
+(FA, CB, BA, GA, GJ, FI, CJ, BI, HI, GB)

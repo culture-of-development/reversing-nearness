@@ -1,0 +1,15 @@
+6007004
+(AA, GL, GK, FL, DG, EE, DD, ED, HK, FK, EK, EH, FD, GD),
+(FG, GG, KH, KG, EF, DF, HE, ID, IK, GJ, FJ, EG, FE, FF),
+(GF, LG, LH, JG, LF, KE, JE, JD, KD, KK, LD, MG, LE, GE),
+(MF, ML, LL, NL, NF, AE, CE, JM, JL, JK, MK, NG, MD, ME),
+(NN, HL, NM, AL, AF, BE, BD, JN, IL, AK, NK, ND, NE, NA),
+(GN, HM, AN, AM, BM, BN, CM, JA, IM, BK, BJ, BC, AD, AB),
+(HA, HN, GM, BL, BF, CN, CB, IA, CL, CK, CJ, CC, BB, FA),
+(GA, IN, HI, CH, CG, CF, CD, IB, HC, HJ, CI, FI, FB, GB),
+(HG, GH, HH, IG, HF, IF, IE, IC, IJ, II, EI, GI, FH, GC),
+(HB, IH, JH, AG, BG, JF, JB, JC, JJ, JI, BI, AI, AC, HD),
+(LA, MH, NH, AH, BH, KF, KB, KC, KI, LI, MI, NI, NC, NB),
+(MA, LN, KN, AJ, DH, BA, KA, LC, KJ, LJ, MJ, NJ, MC, MB),
+(MN, MM, LM, EM, DM, CA, DA, DB, KM, LK, DJ, DI, EB, LB),
+(FN, EN, FM, EL, DL, DE, DN, DC, KL, DK, EJ, EC, FC, EA)

@@ -1,0 +1,7 @@
+5526
+(AA, FC, FF, BC, AC, AF),
+(CB, CC, CF, BF, DC, DF),
+(DB, FE, EE, EB, EC, DE),
+(AB, FB, BE, BB, AD, AE),
+(CA, CD, CE, BA, BD, DA),
+(FA, FD, EF, EA, ED, DD)

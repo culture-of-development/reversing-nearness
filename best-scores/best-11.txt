@@ -1,0 +1,12 @@
+790260
+(AA, BA, HG, IG, HB, IA, EB, JK, KK, IF, HA),
+(GB, GA, HK, GG, HF, FB, EA, EK, EG, FG, FA),
+(FK, CA, CK, GF, DG, DF, DA, DK, EF, FF, FE),
+(BD, BK, BG, GH, CF, CE, BE, CJ, KF, AF, GE),
+(AD, BJ, BI, II, HE, IE, KD, AK, KI, JE, AE),
+(AC, AJ, AI, IJ, IK, JD, KC, KJ, JJ, JI, HD),
+(GC, GK, HJ, HI, ID, IC, ED, DJ, FJ, GJ, GD),
+(FC, CC, GI, HH, HC, DC, EC, EJ, EI, FI, FD),
+(CD, BC, CI, CH, DH, DD, DE, DI, EH, FH, EE),
+(BF, CB, BH, AH, CG, JC, DB, JH, KH, KG, KE),
+(AB, BB, AG, IH, IB, JB, JA, KA, JG, JF, KB)

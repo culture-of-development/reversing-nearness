@@ -1,0 +1,8 @@
+17779
+(AA, AE, AB, GB, GE, BE, BA),
+(EA, EE, GD, GA, FG, FD, FA),
+(EG, ED, DD, DG, CG, CD, EC),
+(BG, AD, AC, CA, CF, BD, BC),
+(AG, AF, GC, GG, GF, FC, FB),
+(EF, DF, DC, DA, FF, FE, EB),
+(BF, DE, DB, CB, CE, CC, BB)
